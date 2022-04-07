@@ -1,0 +1,35 @@
+.first{
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 1rem;
+    border:2px solid black
+  }
+
+  .h6{
+      font-weight: bolder;
+      text-align: left;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      font-size: 250%;
+  }
+
+
+  .head2{
+      font-weight: 600;
+      color:black;
+      font-size:larger;
+
+      
+  }
+  
+
+  .head0{
+      font-size: x-large;
+      font-weight: bold;
+  }
+.form-select{
+    width: 330px;
+}

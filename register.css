@@ -1,0 +1,43 @@
+.contact-main {
+    margin: 42px;
+}
+
+.contact-main h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 27px 0px;
+    font-size: 3em;
+}
+
+.contact-main h2 span {
+    color: rgb(16, 120, 180);
+}
+
+.contact-main .Details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.contact-main .Details .myInput {
+    font-size: 16px;
+    width: 40%;
+    padding: 9px;
+    margin: 8px;
+    border: 1px solid rgb(10, 10, 10);
+    border-radius: 5px;
+    outline: none;
+}
+
+.contact-main .Details .btn {
+    padding: 10px 45px;
+    margin-top: 23px;
+    border: 2px solid white;
+    border-radius: 12px;
+    background-color: black;
+    cursor: pointer;
+    color: white;
+}
